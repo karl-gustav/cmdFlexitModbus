@@ -1,0 +1,3 @@
+[submodule "vendor/github.com/Karl-Gustav/flexitModbus"]
+	path = vendor/github.com/Karl-Gustav/flexitModbus
+	url = git@github.com:Karl-Gustav/flexitModbus.git
